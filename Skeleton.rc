@@ -1,0 +1,8 @@
+
+//include Files
+#include "Resource.h"
+
+
+//icons
+IDI_SKELETON      ICON   "Skeleton.ico"
+IDI_SKELETON_SM   ICON   "Skeleton_sm.ico"

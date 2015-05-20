@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1432139419 source:c:\users\usuario\documents\github\mmorrisonteaching\main.cpp
+
+1432138499 source:c:\users\usuario\documents\github\mmorrisonteaching\skeleton.cpp
+	"Skeleton.h"
+
+1432134657 c:\users\usuario\documents\github\mmorrisonteaching\skeleton.h
+	<windows.h>
+	"Resource.h"
+
+1432137606 c:\users\usuario\documents\github\mmorrisonteaching\resource.h
+
+1432137952 source:c:\users\usuario\documents\github\mmorrisonteaching\skeleton.rc
+	"Resource.h"
+
